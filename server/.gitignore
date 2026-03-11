@@ -1,0 +1,20 @@
+# Logs
+logs
+*.log
+
+# Pastas de dependências
+node_modules/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Banco de dados SQLite
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/*.db-shm
+data/*.db-wal
