@@ -74,7 +74,7 @@ Necessário   ter **Node.js v20+** e **Git** instalados.
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/Joaop4846/ViaTrack
+git clone https://github.com/Joaop4846/ViaTrack.git
 cd ViaTrack
 ```
 
